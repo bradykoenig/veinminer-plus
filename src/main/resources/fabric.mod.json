@@ -1,0 +1,23 @@
+{
+	"schemaVersion": 1,
+	"id": "veinminer",
+	"version": "${version}",
+	"name": "Vein Miner",
+	"description": "Mines connected ores when sneaking with a pickaxe",
+	"authors": ["Brady Koenig"],
+	"license": "MIT",
+	"icon": "assets/veinminer/icon.png",
+	"environment": "*",
+	"entrypoints": {
+	  "main": [
+		"com.bradykoenig.veinminer.VeinMiner"
+	  ]
+	},
+	"depends": {
+	  "fabricloader": ">=0.16.10",
+	  "minecraft": "~1.21.5",
+	  "java": ">=21",
+	  "fabric-api": "*"
+	}
+  }
+  
