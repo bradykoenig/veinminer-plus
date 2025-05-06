@@ -80,5 +80,3 @@ If you have a cool idea for expansion (custom blocks? config? keybind toggle?), 
 This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
 
 ---
-
-Made with ❤️ for Minecraft players who mine responsibly.
